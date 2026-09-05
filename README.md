@@ -1,4 +1,4 @@
-# csi_data
+# rss_data
 
 &emsp;&emsp;This project is a time series five-category data set based on received signal strength ( RSS ) readings. The dataset contains five RSS data types : one pedestrian, two pedestrians, one bicycle, two bicycles and one vehicle. The data acquisition device is composed of ESP32 and SX127x. ESP32 is a WiFi chip with a frequency of 2.4 GHz, and SX127x ( x represents 6 and 8 ) is used to generate and receive wireless signals of 915 MHz and 433 MHz.
 
